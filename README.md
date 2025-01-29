@@ -3,7 +3,7 @@
 - 🌱 I'm a Artificial Intelligence and Machine Learning Grad' 24 from the NIT Warangal.
 - 💞️ I’m looking to collaborate on Business Stakeholders,Cross functional team, Data Scientist, Data Engineering, ML and DL projects
 - 📫 How to reach me sijesh.as@gmail.com
-- 🌱 I am open for full-time AI/ML Product Manager roles.
+- 🌱 I am open for full-time Lead AI/ML Engineer roles.
 
 [![Linkein](https://img.shields.io/badge/-Linkedin-black.svg?style=flat-square&logo=linkedin&colorB=255)](https://www.linkedin.com/in/sijeshalayaril)
 [![Medium](https://img.shields.io/badge/-Medium-black.svg?style=flat-square&logo=Medium&colorB=000)](https://medium.com/me/stories/public)
